@@ -174,8 +174,10 @@ Step 7 - Meta Ads skill (~10 min):
 Run:
   git clone https://github.com/bosar-academy/cc-meta-ads ~/.claude/skills/meta-ads
 
-Install official Meta CLI:
-  curl -sSL https://developers.facebook.com/tools/ads-cli/install.sh | bash
+Install official Meta CLI by following the current install instructions at:
+  https://developers.facebook.com/documentation/ads-commerce/ads-ai-connectors/ads-cli/setup/get-started
+
+After installing, run:
   meta auth login    # opens browser - sign in with my Meta Business account
 
 Verify:
