@@ -2,7 +2,7 @@
 
 Master index for the 9-component Meta Ads + Claude Code bundle. Each component is its own GitHub repo so you can install pieces independently OR run the master install prompt below to install everything at once.
 
-I walk through the full system in this video: https://youtu.be/_TODO_VIDEO_URL_
+I walk through the full system in this video: https://youtu.be/20jn29dZyfA
 
 ## The 9 Components
 
@@ -80,7 +80,7 @@ Each component has its own `INSTALL.md` with a standalone Part 1 + Part 2 if you
 
 ## Higgs Field (video generation)
 
-NOT included in this bundle. Follow the workflow in the video tutorial (https://youtu.be/_TODO_VIDEO_URL_ at ~32 min) - sign up at higgsfield.ai, install their CLI, integrate with Claude Code. The pattern is the same as Nano Banana but for AI-generated UGC video ads.
+NOT included in this bundle. Follow the workflow in the video tutorial (https://youtu.be/20jn29dZyfA at ~32 min) - sign up at higgsfield.ai, install their CLI, integrate with Claude Code. The pattern is the same as Nano Banana but for AI-generated UGC video ads.
 
 ## Total cost
 

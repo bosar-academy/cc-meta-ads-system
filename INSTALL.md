@@ -2,7 +2,7 @@
 
 The complete Meta Ads + Claude Code system — all 9 components installed by one master prompt. Replicates the full end-to-end system from my video on your machine, branded for your business, with your own API keys.
 
-I walk through the complete system in the Meta Ads + Claude Code video here: https://youtu.be/_TODO_VIDEO_URL_
+I walk through the complete system in the Meta Ads + Claude Code video here: https://youtu.be/20jn29dZyfA
 
 This is the SINGLE PROMPT that installs everything. If you only want some pieces, see [README.md](./README.md) for individual component install prompts.
 
